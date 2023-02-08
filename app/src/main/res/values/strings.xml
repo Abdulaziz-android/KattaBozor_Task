@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Task KB</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="internet_unavailable">Интернет недоступен</string>
+    <string name="server_error">Ошибка сервера</string>
+    <string name="an_error_occurred">Произошла ошибка</string>
+    <string name="could_not_connect_to_server">Не удалось подключиться к серверу</string>
+    <string name="soon">скоро</string>
+
+</resources>
